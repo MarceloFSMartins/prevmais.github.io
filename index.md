@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Bem vindo ao Prev++
 
-You can use the [editor on GitHub](https://github.com/MarceloFSMartins/prevpp.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O prev++ é um projeto de software criado em forma de extensão para os navegadores Chrome e Firefox que automatiza processos em sites e aplicativos WEB.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nosso objetivo é economizar tempo em tarefas repetitivas, de modo que possam ser facilmente automatizadas. Isso garantirá mais tempo para de dedicar a funções mais complexas e que demandem mais criatividade.    
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Principais funções
 
-# Header 1
-## Header 2
-### Header 3
+**1. Preenchimento automático
+**2. Salvamento automatico em Planilha
+**3. Captura de Tela
 
-- Bulleted
-- List
+ ![GitHub Logo](/images/logo.png)
+``` 
 
-1. Numbered
-2. List
+### Preenchimento automático de campos  
 
-**Bold** and _Italic_ and `Code` text
+Dentre nossas principais funcionalidades está o preenchimento automatico de campos diversos. É possível a criação de diversas 'tarefas padrão', qeu são tarefas em que os ações e as informações inseridas se repetem regularmente. 
 
-[Link](url) and ![Image](src)
-```
+### Salvamento automatico em Planilha  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Também é possível a captura de dados para uma planilha do Google Sheets e que depois poderão ser inseridas em outros sistemas ou para gerar/pré-preencher documentos ( cartas, ofícios, despachos, textos diversos..)
 
-### Jekyll Themes
+### Captura de Tela
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarceloFSMartins/prevpp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+É possível capturar telas e salva-las automaticamente, ou agrupa-las para salvamento posterior, enquanta navega pelos sistemas.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Quaisquer dúvidas ou sugestões para evolução do sistema envie email para um dos desenvolvedores : marcelofsmartins@gmail.com 
+
