@@ -13,7 +13,7 @@ Principais funções
 **2. Salvamento automatico em Planilha
 **3. Captura de Tela
 
- ![GitHub Logo](/images/logo.png)
+ ![GitHub Logo](/images/prev++02.png)
 ``` 
 
 ### Preenchimento automático de campos  
