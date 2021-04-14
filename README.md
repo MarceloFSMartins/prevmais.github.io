@@ -1,4 +1,4 @@
-## Bem vindo ao Prev++
+## Bem vindo ao Prev+ (prev mais)
 
 O prev++ é uma extensão para os navegadores Chrome e Firefox que automatiza processos em sites e aplicativos WEB.
 
