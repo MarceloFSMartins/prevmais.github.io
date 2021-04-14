@@ -1,9 +1,9 @@
 ## Bem vindo ao Prev+ (prev mais)
 
-O prev++ é uma extensão para os navegadores Chrome e Firefox que automatiza processos em sites e aplicativos WEB.
+O prev+ é uma extensão para os navegadores Chrome e Firefox que automatiza processos em sites e aplicativos WEB.
 
 O objetivo do nosso software é economizar tempo em tarefas repetitivas. Isso garantirá mais tempo para se dedicar as funções mais complexas e que demandem mais criatividade.    
-Acreditamos que com o prev++ diversas tarefas possam ser facilmente automatizadas, mesmo que você não tenha conhecimento em programação. 
+Acreditamos que com o prev+ diversas tarefas possam ser facilmente automatizadas, mesmo que você não tenha conhecimento em programação. 
 
 
 ```markdown
