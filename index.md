@@ -21,7 +21,7 @@ Dentre nossas principais funcionalidades está o preenchimento automatico de cam
 
 ### Salvamento automatico em Planilha  
 
-Também é possível a captura de dados para uma planilha do Google Sheets, que depois podem servir para inclusão em outros sistemas ou para gerar/pré-preencher documentos com, cartas, ofícios, despachos, textos diversos etc, por meio do GoogleDocs - MailMerge (equivalente ao Mala Direta do Excel). 
+Também é possível a captura de dados para uma planilha do Google Sheets, que depois podem servir para inclusão em outros sistemas ou para gerar/pré-preencher documentos como cartas, ofícios, despachos e textos diversos, por meio do GoogleDocs - MailMerge (equivalente ao Mala Direta do Excel). 
 
 ### Captura de Tela
 
