@@ -1,9 +1,9 @@
 ## Bem vindo ao Prev++
 
-O prev++ é um projeto de software criado em forma de extensão para os navegadores Chrome e Firefox que automatiza processos em sites e aplicativos WEB.
+O prev++ é uma extensão para os navegadores Chrome e Firefox que automatiza processos em sites e aplicativos WEB.
 
-Nosso objetivo é economizar tempo em tarefas repetitivas, de modo que possam ser facilmente automatizadas. Isso garantirá mais tempo para de dedicar a funções mais complexas e que demandem mais criatividade.    
-
+O objetivo do nosso software é economizar tempo em tarefas repetitivas. Isso garantirá mais tempo para se dedicar as funções mais complexas e que demandem mais criatividade.    
+Acreditamos que com o prev++, diversas tarefas possam ser facilmente automatizadas por qualquer pessoa, mesmo não tendo conhecimento em programação. 
 
 
 ```markdown
